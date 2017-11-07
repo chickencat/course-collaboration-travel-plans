@@ -44,6 +44,10 @@ body {
     transform: rotate(0deg);
 }
 
+.title {
+    text-shadow: 3px 3px 3px #FF0000;
+}
+
 h2 {
     margin: 0;
     transform: rotate(-45deg);
